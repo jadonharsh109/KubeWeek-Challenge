@@ -1,2 +1,2 @@
-# KubeWeek-Challenge
-7 Days K8s Challange by #TrainWithShubham #KubeWeek Includes all the required concepts and projects to become an K8s Expert.
+# KubeWeek-Challenge Day1
+Kubernetes Architecture and Components, Kubernetes Installation and Configuration.
